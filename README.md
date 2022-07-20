@@ -26,7 +26,7 @@ Requirements
 ```Spring Framework 5.2```,
 ```Tomcat 9```, ```Hibernate 5.4```,
 ```Gradle 7.0```
-* ``Scrapy`` >=  2.0
-* ```MariaDB``` 5.5.68 
+* ``Scrapy 2.0```
+* ```MariaDB 5.5.68```
 * ```AWS EC2```
 
