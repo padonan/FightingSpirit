@@ -21,10 +21,10 @@ Requirements
 ------------
 
 * Python 3.7+
-* ``Spring Boot`` 2.5.0 (Release 2018.10)
-Java 11
-Spring Framework 5.2
-Tomcat 9, Hibernate 5.4
+* ``Spring Boot`` 2.5.0 (Release 2018.10),
+Java 11,
+Spring Framework 5.2,
+Tomcat 9, Hibernate 5.4,
 Gradle 7.0
 * ``Scrapy`` >=  2.0
 * MariaDB 5.5.68 
