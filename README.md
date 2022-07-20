@@ -21,7 +21,7 @@ Requirements
 ------------
 
 * ```Python 3.7+```
-* ```Spring Boot 2.5.0 (Release 2018.10)```,
+* ```Spring Boot 2.5.0```,
 ```Java 11```,
 ```Spring Framework 5.2```,
 ```Tomcat 9```, ```Hibernate 5.4```,
